@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Baku</h3>
 
 - 🌱 I’m currently learning **React,Typescript**
-
+ 
 - 💬 Ask me about **Html,CSS,JS ,React**
 
 - 📫 How to reach me **kenanabbasov12345@gmail.com**

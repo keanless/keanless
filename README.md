@@ -8,7 +8,9 @@
 - 📫 How to reach me **kenanabbasov12345@gmail.com**
 
 - ⚡ Fun fact **I love anime <3**
-
+  <div align="center"> 
+  <img src="https://tenor.com/view/coding-gif-18655255" />
+  <div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_.endlessgame._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.endlessgame._" height="30" width="40" /></a>

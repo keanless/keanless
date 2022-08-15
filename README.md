@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenan</h1>
-<img src="https://komarev.com/ghpvc/?keanless&style=flat-square&color=blue" alt=""/>
+![](https://komarev.com/ghpvc/?username=keanless)
 <h3 align="center">A passionate frontend developer from Baku</h3>
 
 - 🌱 I’m currently learning **React,Typescript**

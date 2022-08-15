@@ -7,13 +7,11 @@
 - 💬 Ask me about **Html,CSS,JS ,React**
 
 - 📫 How to reach me **kenanabbasov12345@gmail.com**
-
-- <div align="center"> 
+ <div align="center"> 
 CSS Sucks
-<img src="https://tenor.com/view/css-html-computers-coding-programming-gif-22307686.gif"/>
+<img src="https://tenor.com/view/css-html-computers-coding-programming-gif-22307686.gif" />
 <div/>
   <div align="center"> 
-  
   <img src="https://tenor.com/view/coding-gif-18655255.gif" />
   <div/>
   

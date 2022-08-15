@@ -9,7 +9,7 @@
 - 📫 How to reach me **kenanabbasov12345@gmail.com**
  <div align="center"> 
 CSS Sucks
-<iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="462" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2"</a></p>
+<img src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="462"   />
 <div/>
   <div align="center"> 
   <img src="https://tenor.com/view/coding-gif-18655255.gif" />

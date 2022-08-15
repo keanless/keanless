@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact **I love anime <3**
   <div align="center"> 
-  <img src="https://tenor.com/view/coding-gif-18655255" />
+  
+  <img src="https://tenor.com/view/coding-gif-18655255.gif" />
   <div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

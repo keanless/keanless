@@ -2,12 +2,12 @@
     
     
     
-  <a href="https://git.io/streak-stats" >  <img  src="http://github-readme-streak-stats.herokuapp.com?user=keanless&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" /> </a>
 
-  <div align="left"> 
+
+  <div align="center"> 
   <img src="https://tenor.com/view/coding-gif-18655255.gif" />
   </div>
-  
+    <a href="https://git.io/streak-stats"  align="center">  <img  src="http://github-readme-streak-stats.herokuapp.com?user=keanless&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" /> </a>
 
  <div>
   <p>  CSS Sucks : </p>

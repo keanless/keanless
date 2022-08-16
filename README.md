@@ -6,7 +6,7 @@
   
 
  <div align="center">
-    CSS Sucks
+  <p>  CSS Sucks : </p>
    <img src="https://tenor.com/view/ughh-gif-22034795.gif" width="50px" height="50px"   />
   </div>
 

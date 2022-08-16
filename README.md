@@ -1,12 +1,14 @@
-    <div align="center"> 
+    
+    
+  <div align="center"> 
   <img src="https://tenor.com/view/coding-gif-18655255.gif" />
-  <div/>
+  </div>
   
 
- <div aligin="center">
+ <div align="center">
     CSS Sucks
    <img src="https://c.tenor.com/QWdPngpHxZ8AAAAC/family-guy-css.gif" width="50px" height="50px"   />
-  <div/>
+  </div>
 
 
 <h1 align="center">Hi 👋, I'm Kenan</h1>

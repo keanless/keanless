@@ -7,8 +7,9 @@
   <div align="center"> 
   <img src="https://tenor.com/view/coding-gif-18655255.gif" />
   </div>
+  <div align="center"
     <a href="https://git.io/streak-stats"  align="center">  <img  src="http://github-readme-streak-stats.herokuapp.com?user=keanless&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" /> </a>
-
+</div>
  <div>
   <p>  CSS Sucks : </p>
    <img src="https://tenor.com/view/ughh-gif-22034795.gif" width="50px" height="50px"   />

@@ -1,3 +1,14 @@
+    <div align="center"> 
+  <img src="https://tenor.com/view/coding-gif-18655255.gif" />
+  <div/>
+  
+
+ <div aligin="center">
+    CSS Sucks
+   <img src="https://c.tenor.com/QWdPngpHxZ8AAAAC/family-guy-css.gif" width="50px" height="50px"   />
+  <div/>
+
+
 <h1 align="center">Hi 👋, I'm Kenan</h1>
 <img src="https://komarev.com/ghpvc/?username=keanless"> 
 <h3 align="center">A passionate frontend developer from Baku</h3>
@@ -8,17 +19,6 @@
 
 - 📫 How to reach me **kenanabbasov12345@gmail.com**
  
-    <div align="center"> 
-  <img src="https://tenor.com/view/coding-gif-18655255.gif" />
-  <div/>
- 
-
-  
-
- <div aligin="center">
-    CSS Sucks
-   <img src="https://c.tenor.com/QWdPngpHxZ8AAAAC/family-guy-css.gif" width="50px" height="50px"   />
-  <div/>
 
   
 <h3 align="left">Connect with me:</h3>

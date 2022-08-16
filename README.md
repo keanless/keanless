@@ -16,7 +16,7 @@
   </div>
 
  <div align="right">
-  <p>  Nah, My life Sucks : </p>
+  <p>  : Nah, My life Sucks  </p>
    <img src="https://tenor.com/view/pepe-the-frog-angry-mad-frustrated-sad-gif-16186805.gif" width="50px" height="50px"   />
   </div>
 

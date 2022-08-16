@@ -10,11 +10,13 @@
  
 
  
-
+   <div align="center"> 
+  <img src="https://tenor.com/view/coding-gif-18655255.gif" />
+  <div/>
   
   CSS Sucks
- <div aligin="left">
-   <img src="https://tenor.com/view/family-guy-css-open-window-annoyed-pissed-gif-12014506.gif](https://tenor.com/view/angry-cry-gif-21313782.gif" width="10px" height="10px"   />
+ <div aligin="center">
+   <img src="https://tenor.com/view/angry-cry-gif-21313782.gif" width="10px" height="10px"   />
   <div/>
 
   

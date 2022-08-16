@@ -7,7 +7,7 @@
 
  <div align="center">
     CSS Sucks
-   <img src="https://c.tenor.com/QWdPngpHxZ8AAAAC/family-guy-css.gif" width="50px" height="50px"   />
+   <img src="https://tenor.com/view/ughh-gif-22034795" width="50px" height="50px"   />
   </div>
 
 

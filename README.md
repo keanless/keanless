@@ -17,7 +17,7 @@
 
  <div aligin="center">
     CSS Sucks
-   <img src="https://tenor.com/view/angry-cry-gif-21313782.gif" width="50px" height="50px"   />
+   <img src="https://c.tenor.com/QWdPngpHxZ8AAAAC/family-guy-css.gif" width="50px" height="50px"   />
   <div/>
 
   

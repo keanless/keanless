@@ -10,9 +10,7 @@
  
 
  
-   <div align="center"> 
-  <img src="https://tenor.com/view/coding-gif-18655255.gif" />
-  <div/>
+
   
   CSS Sucks
  <div aligin="center">

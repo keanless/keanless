@@ -9,7 +9,7 @@
 - 📫 How to reach me **kenanabbasov12345@gmail.com**
  <div align="center"> 
 CSS Sucks
-<img src="https://tenor.com/view/family-guy-css-open-window-annoyed-pissed-gif-12014506.gif" width="100" height="100"   />
+<img src="https://tenor.com/view/family-guy-css-open-window-annoyed-pissed-gif-12014506.gif"   />
 <div/>
   <div align="center"> 
   <img src="https://tenor.com/view/coding-gif-18655255.gif" />

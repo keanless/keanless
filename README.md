@@ -7,18 +7,18 @@
 - 💬 Ask me about **Html,CSS,JS ,React**
 
 - 📫 How to reach me **kenanabbasov12345@gmail.com**
- <div align="center"> 
-CSS Sucks
- <div>
-   <img src="https://tenor.com/view/family-guy-css-open-window-annoyed-pissed-gif-12014506.gif"   />
-  <div/>
+ 
 
-<div/>
+ 
   <div align="center"> 
   <img src="https://tenor.com/view/coding-gif-18655255.gif" />
   <div/>
   
-  
+  CSS Sucks
+ <div>
+   <img src="https://tenor.com/view/family-guy-css-open-window-annoyed-pissed-gif-12014506.gif"   />
+  <div/>
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

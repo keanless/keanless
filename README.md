@@ -15,7 +15,7 @@
   <div/>
   
   CSS Sucks
- <div aligin="right">
+ <div aligin="left">
    <img src="https://tenor.com/view/family-guy-css-open-window-annoyed-pissed-gif-12014506.gif"   />
   <div/>
 

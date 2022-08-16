@@ -8,7 +8,9 @@
 
 - 📫 How to reach me **kenanabbasov12345@gmail.com**
  
-
+    <div align="center"> 
+  <img src="https://tenor.com/view/coding-gif-18655255.gif" />
+  <div/>
  
 
   
